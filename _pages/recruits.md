@@ -39,4 +39,4 @@ At all times, members are expected to conduct themselves in a safe and reasonabl
 
 [equipment]: {{ '/equipment/' | relative_url }}
 [safety]: {{ '/safety/' | relative_url }}
-[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
+[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}
