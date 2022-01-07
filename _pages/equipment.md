@@ -25,13 +25,13 @@ The IFAK is **your** personal first aid kit, and should be equipped so that _som
 
 Generally, militia members wear some manner of BDU (Battle Dress Uniform) with the pattern determined by their AO. Generally, multicam/OCP, A-TACS, or even woodland patterns will suffice for this area.
 
-Reference section [LFMS-01-07A “Uniform Standards”][standards] for more information about a uniform. 
+Reference section [LFMS-04-06A “Uniform Standards” PG 31][standards] for more information about a uniform. 
 
 #### Boots
 
 During training, we are on our feet a lot, moving over rocks, and through brush and mud. A good pair of boots is essential. Under no circumstances should "open toed" shoes be worn to a FTX.
 
-Reference section [LFMS-03-06 "EQUIPMENT"][standards] for more information about boots.
+Reference section [LFMS-04-06 "EQUIPMENT" - PG 26][standards] for more information about boots.
 
 #### Rifle
 
@@ -57,4 +57,4 @@ Many members of our unit are licensed HAM radio operators. We use simplex freque
 
 While a sidearm is not required, many prefer to have a back-up weapon. Much like the rifle, a common caliber is suggested, and most opt for `9MM` or `.45acp`. Invest in a good holster that can be attached to your other gear, and a minimum of 3 extra magazines.
 
-[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
+[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}

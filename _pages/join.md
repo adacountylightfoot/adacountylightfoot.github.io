@@ -25,7 +25,7 @@ All prospective members must submit an application online. This information will
 
 ## Attend _New Recruit Training_
 
-We conduct a three-part virtual training session for potential recruits. _New Recruit Training_ covers the basic requirements for militia participation, including safety, uniforms, equipment, and expectations. Download and print the [Core Training Card][core-training-card] prior to attending. _New Recruit Training_ is conducted via zoom, and is required prior to attending meetings or Field Training Excercises. _Note: all participants are expected to have a VIDEO and AUDIO connection enabled, and participate in the meetings._ 
+We conduct a three-part virtual training session for potential recruits. _New Recruit Training_ covers the basic requirements for militia participation, including safety, uniforms, equipment, and expectations. Download and print the [Militia Core Training Card (MCTC)][core-training-card] prior to attending. _New Recruit Training_ is conducted via zoom, and is required prior to attending meetings or Field Training Excercises. _Note: all participants are expected to have a VIDEO and AUDIO connection enabled, and participate in the meetings._ 
 
 ## Attend a meeting
 
@@ -49,8 +49,8 @@ We encourage everyone to train as often as possible. Our monthly FTX is one oppo
 
 Beyond the basic requirements of an enlisted militiamen, we there are many ways to contribute. These opportunities range from teaching a class or conducting a training, helping to recruit at local meetings, and assisting during events. If you have something to contribute,  speak up.
 
-[standards]: /assets/pdf/Light_Foot_Militia_Standards_2014.pdf
-[core-training-card]: /assets/pdf/Core_Training_Card.pdf
+[standards]: /assets/pdf/Light_Foot_Militia_Standards_2020.pdf
+[core-training-card]: /assets/pdf/Militia_Core_Training_Card.pdf
 [training]: {{ '/training/' | relative_url }}
 [contact]: {{ '/contact/' | relative_url }}
 [apply]: {{ '/apply/' | relative_url }}

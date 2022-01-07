@@ -26,4 +26,4 @@ The **Basic Marksmanship Qualification Test** is to ensure militiamen are safe w
 Once a member has passed the **Basic Marksmanship Qualification Test**, they are encouraged to take the **Militia Marksmanship Qualification Test (MMQ)**. See section [LFMS-03-05 'The ?MMQ?'][standards] for more information about the MMQ.
 
 [safety]: {{ '/safety/' | relative_url }}
-[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
+[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}

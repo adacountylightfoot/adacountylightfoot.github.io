@@ -32,4 +32,4 @@ As a Light Foot battalion, we base our operations on the [Militia Standards and 
 * Advocate the removal of any person from his or her lawfully elected office. 
 * Allow racists, felons, or anarchists to join or participate. 
 
-[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2014.pdf' | relative_url }}
+[standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}
