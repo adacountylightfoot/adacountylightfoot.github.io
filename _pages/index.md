@@ -15,7 +15,7 @@ We are the 43rd infantry battalion of the Unorganized Militia of the State of Id
 
 ## Our Mission
 
-> To defend the Constitution of the United States and the State of Idaho from all enemies, foreign and domestic. In time of peace, we train and assist our community in any way that may better us all. A Primary goal is to work and train to be an asset and not an issue for the Sherriff's office. In time of crisis, we stand with our neighbors to protect live, liberty and property and ensure the rule of law.
+> To defend the Constitution of the United States and the State of Idaho from all enemies, foreign and domestic. In time of peace, we train and assist our community in any way that may better us all. A Primary goal is to work and train to be an asset and not an issue for the Sherriff's office. In time of crisis, we stand with our neighbors to protect life, liberty and property, and ensure the rule of law.
 
 We pledge to promote and defend the unalienable rights of all people as directed by the U.S. Constitution, the Idaho Constitution, and our Commander in Chief, the Governor of Idaho. If you support this cause, then consider yourself recruited. [More About Us][about]
 
