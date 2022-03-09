@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/A-TACS_FG.jpg
 ---
 
-We are the 43rd infantry battalion of the Unorganized Militia of the State of Idaho, based in Ada County. We are volunteers operating in accordance with the Constitution of the United States, the Idaho Constitution ([Article XIV][articleXIV]), and Idaho Statute ([Title 46][title46]).
+We are the 1st infantry battalion of the Unorganized Militia of the State of Idaho, based in Ada County. We are volunteers operating in accordance with the Constitution of the United States, the Idaho Constitution ([Article XIV][articleXIV]), and Idaho Statute ([Title 46][title46]).
 
 ## Our Mission
 
