@@ -11,4 +11,4 @@ header:
 
 ## Contact the Ada County Light Foot
 
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>General Contact Form</title> <style>*{margin:0;padding:0;} html,body,#wrapper{width:100%;height:100%;} iframe{border-radius:0 !important;}</style> </head> <body> <div id="wrapper" data-tf-widget="qU49znDR" data-tf-inline-on-mobile ></div> <script src="//embed.typeform.com/next/embed.js"></script> </body> </html>
+<div data-tf-widget="qU49znDR" data-tf-iframe-props="title=General Contact Form" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
