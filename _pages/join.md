@@ -17,15 +17,11 @@ General membership in the militia is open to all lawful citizens of a state, age
 
 As a Light Foot battalion, we base our operations on the [Militia Standards and Principles of the Light Foot][standards]. We expect participants to be familiar with these standards, and abide by the guidelines set forth therein. Please download and print a copy. You're not expected to **memorize it**, but at least familiarize yourself with it before attending your first meeting, especially the _Statement of Ethics/Mission Statement_ section on page 1, and the _Duty and Code of Conduct_ on page 3.
 
-## Vetting Process
+## Application Process
 
-All prospective members must submit an application online. This information will help us to determine elegibility and appropriate role in the unit. Submitting an application **does not** constitute membership in the militia. After submitting an application and eledgibility is determined, prospects will be required to participate in a short virtual interview (typically via Zoom) with the battalion staff. This is an opportunity for us to get to know you, and for you to ask any questions.
+All prospective members must submit an application online. This information will help us to determine elegibility and appropriate role in the unit. Submitting an application **does not** constitute membership in the militia. After submitting an application and eledgibility is determined, prospects will be invited to attend our regular monthly meetings. This is an opportunity for us to get to know you, and for you to ask any questions. 
 
 [Apply to join][apply]{: .btn .btn--primary}
-
-## Attend _New Recruit Training_
-
-We conduct a three-part virtual training session for potential recruits. _New Recruit Training_ covers the basic requirements for militia participation, including safety, uniforms, equipment, and expectations. Download and print the [Militia Core Training Card (MCTC)][core-training-card] prior to attending. _New Recruit Training_ is conducted via zoom, and is required prior to attending meetings or Field Training Excercises. _Note: all participants are expected to have a VIDEO and AUDIO connection enabled, and participate in the meetings._ 
 
 ## Attend a meeting
 
