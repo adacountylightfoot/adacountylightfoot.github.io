@@ -19,7 +19,7 @@ As a Light Foot battalion, we base our operations on the [Militia Standards and 
 
 ## Application Process
 
-All prospective members must submit an application online. This information will help us to determine elegibility and appropriate role in the unit. Submitting an application **does not** constitute membership in the militia. After submitting an application and eledgibility is determined, prospects will be invited to attend our regular monthly meetings. This is an opportunity for us to get to know you, and for you to ask any questions. 
+All prospective members must submit an application online. This information will help us to determine elegibility and appropriate role in the unit. Submitting an application **does not** constitute membership in the battalion. After submitting an application and eledgibility is determined, prospects will be invited to attend our regular monthly meetings. This is an opportunity for us to get to know you, and for you to ask any questions. 
 
 [Apply to join][apply]{: .btn .btn--primary}
 
