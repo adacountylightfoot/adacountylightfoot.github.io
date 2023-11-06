@@ -27,7 +27,7 @@ You may say "I don't have any training!" or "What can I do?" To be a "Well-Regul
 
 According to federal law, as well as the Idaho Constitution and Idaho State Code, all male citizens from 18 to 45 years of age are members of the militia. But this traditional duty goes back much further. It was a part of Anglo-Saxon common law at least as far back as the 7th century, and later propagated into the laws and customs of the American colonies, that all males between the ages of 16 and 60 were members of the militia. While this duty primarily applied to males, in emergencies it extended to females as well.
 
-So the militia, like your God-given rights, existed long before the United States government was even formed. And you are already a member, both by statute and by God-given right. [How to join][join]
+So the militia, like your God-given rights, existed long before the United States government was even formed. And you are already a member, both by statute and by God-given right. [Train with us][join]
 
 [Source: https://lightfootmilitia.com][lfm]
 
