@@ -25,24 +25,6 @@ research:
         url: /assets/pdf/Light_Foot_Militia_Standards_2020.pdf
       - title: Light Foot Unit Map
         url: http://lightfootmilitia.com/unit-locator-map.html
-  - title: Neighboring Units
-    children:
-      - title: 55th Bn Light Foot (Coeur d Alene)
-        url: https://www.facebook.com/Kootenai-county-Light-Foot-Militia-43rd-FF-1428978593865713/
-      - title: 63rd Bn Light Foot (Spokane, WA)
-        url: https://www.facebook.com/jeff.stan.716533
-      - title: 7th Bn Light Foot (Elko, NV)
-        url: http://www.nnlfp.com
-      - title: 45th Bn Light Foot (Tooele, UT)
-        url: https://www.facebook.com/The-Utah-Lightfoot-Militia-1496322640675051/
-      - title: 21st Light Foot (Pasco, WA)
-        url: https://southeastwashingtonmilitia.webs.com/
-      - title: 57th Bn Light Foot (Virginia City, MT)
-        url: https://www.facebook.com/Montana-57th-Battalion-of-Light-Foot-106443124359206/
-      - title: Utah Light Foot
-        url: https://utahlightfootmilitia.webs.com/
-      - title: Texas Militia
-        url: http://www.texasmilitia.info/
 resources:
   - title: Books & Publications
     children:
