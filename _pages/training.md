@@ -37,3 +37,4 @@ We encourage everyone who can to lead a training at least once per year. If you 
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}
 [training]: {{ '/training/' | relative_url }}
 [arms-qualifications]: {{ '/arms-qualifications/' | relative_url }}
+[basic_rifle]: {{ https://adalightfoot.org/assets/pdf/Basic_Fire_Arms_Safety.pdf}}

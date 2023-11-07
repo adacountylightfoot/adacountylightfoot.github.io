@@ -9,7 +9,7 @@ sidebar:
   - nav: "recruits"
 ---
 
-Proficency with firearms is essential, and we encourage members to qualify with each firearm they intend to use in militia service. 
+Proficency with firearms is essential, and we encourage members to qualify with each firearm they intend to use in militia service. All recruits shall attend, and demonstrate knowedge of the [Basic Fire Arms Safety][basic-firearms-safety training. 
 
 ## Basic Marksmanship Qualification Test
 
@@ -27,3 +27,5 @@ Once a member has passed the **Basic Marksmanship Qualification Test**, they are
 
 [safety]: {{ '/safety/' | relative_url }}
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}
+[core-training-card]: /assets/pdf/Militia_Core_Training_Card.pdf
+[basic-firearms-safety]: /assets/pdf/Basic_Fire_Arms_Safety.pdf
