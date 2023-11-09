@@ -23,7 +23,7 @@ header:
       <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
         <div class="ml-form-embedContent" style="">
           <h4>Ask us anything</h4>
-          <p>Ask questions about the militia</p>
+          <p>Questions about the militia? Fire at will!</p>
         </div>
         <form class="ml-block-form" action="https://static.mailerlite.com/webforms/submit/p3m3m9" data-code="p3m3m9" method="post" target="_blank">
           <div class="ml-form-formContent">
@@ -76,5 +76,5 @@ header:
 <script>
   function ml_webform_success_5666113(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-5666113 .row-success").show(),r(".ml-subscribe-form-5666113 .row-form").hide()}
 </script>
-<img src="https://track.mailerlite.com/webforms/o/5666113/p3m3m9?v1699505884" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
+<img src="https://track.mailerlite.com/webforms/o/5666113/p3m3m9?v1699522253" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?vd4de52e171e8eb9c47c0c20caf367ddf" type="text/javascript"></script>
