@@ -51,10 +51,11 @@ Beyond the essentials above, we suggest that every recruit consider the followin
 
 #### MURS-capable Handheld Radio
 
-Many members of our unit are licensed HAM radio operators. We use simplex frequencies for communicating in the field. If you are not yet licensed, we suggest that you start with an inexpensive, MURS-capable radio. These are NOT the "walkie-talkies" that you can purchase at local hardware or sporting good stores (although anything is better than nothing). They are relatively inexpensive and work for close-range communications.
+Many members of our unit are licensed HAM radio operators. We use simplex frequencies for communicating in the field. If you are not yet licensed, we suggest that you start with an inexpensive, MURS-capable radio like the [UV-5R][uv5r]. These are NOT the "walkie-talkies" that you can purchase at local hardware or sporting good stores (although anything is better than nothing). They are relatively inexpensive and work for close-range communications.
 
 #### Sidearm
 
 While a sidearm is not required, many prefer to have a back-up weapon. Much like the rifle, a common caliber is suggested, and most opt for `9MM` or `.45acp`. Invest in a good holster that can be attached to your other gear, and a minimum of 3 extra magazines.
 
 [standards]: {{ '/assets/pdf/Light_Foot_Militia_Standards_2020.pdf' | relative_url }}
+[uv5r]: {{ '/assets/pdf/uv5r.pdf' | relative_url }}
